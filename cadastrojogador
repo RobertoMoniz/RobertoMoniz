@@ -1,0 +1,17 @@
+def ficha(nome='desconhecido', gols=0):
+    print(f'O jogador {nome} fez {gols} gols no campeonato. ')
+
+
+nome = str(input('Nome do jogador: '))
+while not nome.isalpha():
+    print('Ops! Digite apenas letras.')
+    nome = str(input('Nome do jogador: '))
+gols = str(input(f'Quantos gols {nome} fez no campeonato: '))
+if nome == '':
+    nome = '<desconhecido>'
+while not gols.isnumeric():
+    print('Ops! Digite apenas NÚMEROS.')
+    gols = str(input(f'Quantos gols {nome} fez no campeonato: '))
+if gols == '':
+    gols = int()
+ficha(nome, gols)
