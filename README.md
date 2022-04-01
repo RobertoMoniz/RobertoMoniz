@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertoMoniz
-- 👀 I’m interested in  tudo relacionado a Python.
-- 🌱 I’m currently learnin Python.
-- 💞️ I’m looking to collabora  em Python.
+- 👀 I’m interested in  Data Science.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collabora  in Python.
 - 📫 How to reach me  robertomoniz_3@hotmail.com
 
 <!---
